@@ -62,7 +62,8 @@ FinAlgoritmo
 
 
 PSint 
-
+![image](https://user-images.githubusercontent.com/114308907/196011836-e4e9ccf9-9706-4c85-87d6-2d47d467f52f.png)
+Diagrama de flujo 
 ![image](https://user-images.githubusercontent.com/114308907/196011827-699f5cef-641f-4f6e-b0df-b64a69b465f5.png)
 
 
