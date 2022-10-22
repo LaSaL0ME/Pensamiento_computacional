@@ -11,8 +11,8 @@ hasta que num=num_sec
 5. fin
 
 diagrama de flujo
+![image](https://user-images.githubusercontent.com/114308907/197363782-59a2afd4-5ebf-444b-965f-bab433116773.png)
 
-PSint
 
 
 
